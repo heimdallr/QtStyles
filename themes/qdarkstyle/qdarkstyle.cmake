@@ -1,4 +1,4 @@
-AddTarget(theme_qdarkstyle	shared_lib
+AddTarget(qdarkstyle	shared_lib
 	PROJECT_GROUP App/Themes
 	SOURCE_DIRECTORY
 		"${CMAKE_CURRENT_LIST_DIR}"

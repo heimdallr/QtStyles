@@ -1,4 +1,4 @@
-AddTarget(theme_breeze	shared_lib
+AddTarget(breeze	shared_lib
 	PROJECT_GROUP App/Themes
 	SOURCE_DIRECTORY
 		"${CMAKE_CURRENT_LIST_DIR}"
