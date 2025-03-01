@@ -3,11 +3,11 @@ rem @echo off
 set start_time=%DATE% %TIME%
 set PRODUCT_VERSION=2.1.0
 
-call src\ext\scripts\batch\check_executable.bat cmake
+call ext\scripts\batch\check_executable.bat cmake
 if NOT [%ERRORLEVEL%]==[0] goto end
 
 set tee_name=tee.exe
-call src\ext\scripts\batch\check_executable.bat %tee_name%
+call ext\scripts\batch\check_executable.bat %tee_name%
 if NOT [%ERRORLEVEL%]==[0] goto end
 
 set originalDir=%CD%
