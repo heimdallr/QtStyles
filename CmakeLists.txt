@@ -1,0 +1,42 @@
+cmake_minimum_required(VERSION 3.12)
+project(QtStyles VERSION ${PRODUCT_VERSION})
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_compile_options(
+	/MP     # multi-processor compilation
+	/W4		# warnings level 4
+	/WX		# warning is error
+	/we5038 # reorder
+	/wd4250 # inherits via dominance
+	/wd4251 # member (ala std::unique_ptr<some>) needs to have dll-interface to be used by clients of class 'some'
+	/wd4275 # non dll-interface class 'ISome' used as base for dll-interface class 'Some'
+	/wd4503	# decorated name length exceeded, name was truncated
+	/bigobj # number of sections exceeded object file format limit
+)
+
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_INCLUDE_CURRENT_DIR ON)
+set(CMAKE_INSTALL_PREFIX "${CMAKE_BINARY_DIR}/install")
+
+set_property(GLOBAL PROPERTY USE_FOLDERS ON)
+
+if (NOT DEFINED CMAKE_BUILD_TYPE)
+	set(CMAKE_BUILD_TYPE Debug)
+endif ()
+
+set(QT_MAJOR_VERSION 6)
+
+# Подключаем сборочные скрипты
+set(BUILDSCRIPTS_ROOT ${CMAKE_SOURCE_DIR}/src/ext/scripts)
+set(CMAKE_MODULE_PATH ${BUILDSCRIPTS_ROOT}/cmake/modules)
+include(${BUILDSCRIPTS_ROOT}/cmake/target.cmake)
+include(${BUILDSCRIPTS_ROOT}/cmake/sdk.cmake)
+
+set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTORCC ON)
+set(CMAKE_AUTOUIC ON)
+
+add_compile_definitions(UNICODE _UNICODE NOMINMAX _USE_MATH_DEFINES)
+
+include("src/home/home.cmake")
