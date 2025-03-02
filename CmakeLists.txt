@@ -40,4 +40,5 @@ set(CMAKE_AUTOUIC ON)
 
 add_compile_definitions(UNICODE _UNICODE NOMINMAX _USE_MATH_DEFINES)
 
+add_subdirectory("src")
 add_subdirectory("theme")
