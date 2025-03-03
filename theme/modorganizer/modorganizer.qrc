@@ -1,17 +1,17 @@
 <RCC>
-	<qresource prefix="">
+	<qresource prefix="modorganizer">
 		<file alias="dark.qss">dark.qss</file>
 		<file alias="dracula.qss">dracula.qss</file>
 		<file alias="Night Eyes.qss">Night Eyes.qss</file>
 		<file alias="Parchment v1.1 by Bob.qss">Parchment v1.1 by Bob.qss</file>
 		<file alias="skyrim.qss">skyrim.qss</file>
-		<file alias="vs15 Dark-Green.qss">vs15 Dark-Green.qss</file>
-		<file alias="vs15 Dark-Orange.qss">vs15 Dark-Orange.qss</file>
-		<file alias="vs15 Dark-Pink.qss">vs15 Dark-Pink.qss</file>
-		<file alias="vs15 Dark-Purple.qss">vs15 Dark-Purple.qss</file>
-		<file alias="vs15 Dark-Red.qss">vs15 Dark-Red.qss</file>
-		<file alias="vs15 Dark-Yellow.qss">vs15 Dark-Yellow.qss</file>
-		<file alias="vs15 Dark.qss">vs15 Dark.qss</file>
+		<file alias="Dark-Green.qss">vs15 Dark-Green.qss</file>
+		<file alias="Dark-Orange.qss">vs15 Dark-Orange.qss</file>
+		<file alias="Dark-Pink.qss">vs15 Dark-Pink.qss</file>
+		<file alias="Dark-Purple.qss">vs15 Dark-Purple.qss</file>
+		<file alias="Dark-Red.qss">vs15 Dark-Red.qss</file>
+		<file alias="Dark-Yellow.qss">vs15 Dark-Yellow.qss</file>
+		<file alias="Dark.qss">vs15 Dark.qss</file>
 	</qresource>
 	<qresource prefix="parchment">
 		<file alias="checkbox-alt-checked.png">parchment/checkbox-alt-checked.png</file>

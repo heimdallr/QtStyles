@@ -1,5 +1,5 @@
 <RCC>
-	<qresource prefix="">
+	<qresource prefix="loadqss">
 		<file alias="BlueGlass.qss">BlueGlass.qss</file>
 		<file alias="Coffee.qss">Coffee.qss</file>
 		<file alias="Dark.qss">Dark.qss</file>

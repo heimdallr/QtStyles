@@ -102,7 +102,6 @@
     <file>dark-blue-alt/skip_backward.svg</file>
     <file>dark-blue-alt/skip_forward.svg</file>
     <file>dark-blue-alt/stop.svg</file>
-    <file>dark-blue-alt/stylesheet.qss</file>
     <file>dark-blue-alt/tab_close.svg</file>
     <file>dark-blue-alt/transparent.svg</file>
     <file>dark-blue-alt/trash.svg</file>
@@ -223,7 +222,6 @@
     <file>dark-blue/skip_backward.svg</file>
     <file>dark-blue/skip_forward.svg</file>
     <file>dark-blue/stop.svg</file>
-    <file>dark-blue/stylesheet.qss</file>
     <file>dark-blue/tab_close.svg</file>
     <file>dark-blue/transparent.svg</file>
     <file>dark-blue/trash.svg</file>
@@ -344,7 +342,6 @@
     <file>dark-cyan-alt/skip_backward.svg</file>
     <file>dark-cyan-alt/skip_forward.svg</file>
     <file>dark-cyan-alt/stop.svg</file>
-    <file>dark-cyan-alt/stylesheet.qss</file>
     <file>dark-cyan-alt/tab_close.svg</file>
     <file>dark-cyan-alt/transparent.svg</file>
     <file>dark-cyan-alt/trash.svg</file>
@@ -465,7 +462,6 @@
     <file>dark-cyan/skip_backward.svg</file>
     <file>dark-cyan/skip_forward.svg</file>
     <file>dark-cyan/stop.svg</file>
-    <file>dark-cyan/stylesheet.qss</file>
     <file>dark-cyan/tab_close.svg</file>
     <file>dark-cyan/transparent.svg</file>
     <file>dark-cyan/trash.svg</file>
@@ -586,7 +582,6 @@
     <file>dark-green-alt/skip_backward.svg</file>
     <file>dark-green-alt/skip_forward.svg</file>
     <file>dark-green-alt/stop.svg</file>
-    <file>dark-green-alt/stylesheet.qss</file>
     <file>dark-green-alt/tab_close.svg</file>
     <file>dark-green-alt/transparent.svg</file>
     <file>dark-green-alt/trash.svg</file>
@@ -707,7 +702,6 @@
     <file>dark-green/skip_backward.svg</file>
     <file>dark-green/skip_forward.svg</file>
     <file>dark-green/stop.svg</file>
-    <file>dark-green/stylesheet.qss</file>
     <file>dark-green/tab_close.svg</file>
     <file>dark-green/transparent.svg</file>
     <file>dark-green/trash.svg</file>
@@ -828,7 +822,6 @@
     <file>dark-pink-alt/skip_backward.svg</file>
     <file>dark-pink-alt/skip_forward.svg</file>
     <file>dark-pink-alt/stop.svg</file>
-    <file>dark-pink-alt/stylesheet.qss</file>
     <file>dark-pink-alt/tab_close.svg</file>
     <file>dark-pink-alt/transparent.svg</file>
     <file>dark-pink-alt/trash.svg</file>
@@ -949,7 +942,6 @@
     <file>dark-pink/skip_backward.svg</file>
     <file>dark-pink/skip_forward.svg</file>
     <file>dark-pink/stop.svg</file>
-    <file>dark-pink/stylesheet.qss</file>
     <file>dark-pink/tab_close.svg</file>
     <file>dark-pink/transparent.svg</file>
     <file>dark-pink/trash.svg</file>
@@ -1070,7 +1062,6 @@
     <file>dark-purple-alt/skip_backward.svg</file>
     <file>dark-purple-alt/skip_forward.svg</file>
     <file>dark-purple-alt/stop.svg</file>
-    <file>dark-purple-alt/stylesheet.qss</file>
     <file>dark-purple-alt/tab_close.svg</file>
     <file>dark-purple-alt/transparent.svg</file>
     <file>dark-purple-alt/trash.svg</file>
@@ -1191,7 +1182,6 @@
     <file>dark-purple/skip_backward.svg</file>
     <file>dark-purple/skip_forward.svg</file>
     <file>dark-purple/stop.svg</file>
-    <file>dark-purple/stylesheet.qss</file>
     <file>dark-purple/tab_close.svg</file>
     <file>dark-purple/transparent.svg</file>
     <file>dark-purple/trash.svg</file>
@@ -1312,7 +1302,6 @@
     <file>dark-red-alt/skip_backward.svg</file>
     <file>dark-red-alt/skip_forward.svg</file>
     <file>dark-red-alt/stop.svg</file>
-    <file>dark-red-alt/stylesheet.qss</file>
     <file>dark-red-alt/tab_close.svg</file>
     <file>dark-red-alt/transparent.svg</file>
     <file>dark-red-alt/trash.svg</file>
@@ -1433,7 +1422,6 @@
     <file>dark-red/skip_backward.svg</file>
     <file>dark-red/skip_forward.svg</file>
     <file>dark-red/stop.svg</file>
-    <file>dark-red/stylesheet.qss</file>
     <file>dark-red/tab_close.svg</file>
     <file>dark-red/transparent.svg</file>
     <file>dark-red/trash.svg</file>
@@ -1452,7 +1440,6 @@
     <file>dark-red/volume_muted.svg</file>
     <file>dark-red/vseptoolbar.svg</file>
     <file>dark-red/window_close.svg</file>
-    <file>dark/stylesheet.qss</file>
     <file>light-blue-alt/ads_close.svg</file>
     <file>light-blue-alt/ads_close_hover.svg</file>
     <file>light-blue-alt/ads_close_pressed.svg</file>
@@ -1555,7 +1542,6 @@
     <file>light-blue-alt/skip_backward.svg</file>
     <file>light-blue-alt/skip_forward.svg</file>
     <file>light-blue-alt/stop.svg</file>
-    <file>light-blue-alt/stylesheet.qss</file>
     <file>light-blue-alt/tab_close.svg</file>
     <file>light-blue-alt/transparent.svg</file>
     <file>light-blue-alt/trash.svg</file>
@@ -1676,7 +1662,6 @@
     <file>light-blue/skip_backward.svg</file>
     <file>light-blue/skip_forward.svg</file>
     <file>light-blue/stop.svg</file>
-    <file>light-blue/stylesheet.qss</file>
     <file>light-blue/tab_close.svg</file>
     <file>light-blue/transparent.svg</file>
     <file>light-blue/trash.svg</file>
@@ -1797,7 +1782,6 @@
     <file>light-cyan-alt/skip_backward.svg</file>
     <file>light-cyan-alt/skip_forward.svg</file>
     <file>light-cyan-alt/stop.svg</file>
-    <file>light-cyan-alt/stylesheet.qss</file>
     <file>light-cyan-alt/tab_close.svg</file>
     <file>light-cyan-alt/transparent.svg</file>
     <file>light-cyan-alt/trash.svg</file>
@@ -1918,7 +1902,6 @@
     <file>light-cyan/skip_backward.svg</file>
     <file>light-cyan/skip_forward.svg</file>
     <file>light-cyan/stop.svg</file>
-    <file>light-cyan/stylesheet.qss</file>
     <file>light-cyan/tab_close.svg</file>
     <file>light-cyan/transparent.svg</file>
     <file>light-cyan/trash.svg</file>
@@ -2039,7 +2022,6 @@
     <file>light-green-alt/skip_backward.svg</file>
     <file>light-green-alt/skip_forward.svg</file>
     <file>light-green-alt/stop.svg</file>
-    <file>light-green-alt/stylesheet.qss</file>
     <file>light-green-alt/tab_close.svg</file>
     <file>light-green-alt/transparent.svg</file>
     <file>light-green-alt/trash.svg</file>
@@ -2160,7 +2142,6 @@
     <file>light-green/skip_backward.svg</file>
     <file>light-green/skip_forward.svg</file>
     <file>light-green/stop.svg</file>
-    <file>light-green/stylesheet.qss</file>
     <file>light-green/tab_close.svg</file>
     <file>light-green/transparent.svg</file>
     <file>light-green/trash.svg</file>
@@ -2281,7 +2262,6 @@
     <file>light-pink-alt/skip_backward.svg</file>
     <file>light-pink-alt/skip_forward.svg</file>
     <file>light-pink-alt/stop.svg</file>
-    <file>light-pink-alt/stylesheet.qss</file>
     <file>light-pink-alt/tab_close.svg</file>
     <file>light-pink-alt/transparent.svg</file>
     <file>light-pink-alt/trash.svg</file>
@@ -2402,7 +2382,6 @@
     <file>light-pink/skip_backward.svg</file>
     <file>light-pink/skip_forward.svg</file>
     <file>light-pink/stop.svg</file>
-    <file>light-pink/stylesheet.qss</file>
     <file>light-pink/tab_close.svg</file>
     <file>light-pink/transparent.svg</file>
     <file>light-pink/trash.svg</file>
@@ -2523,7 +2502,6 @@
     <file>light-purple-alt/skip_backward.svg</file>
     <file>light-purple-alt/skip_forward.svg</file>
     <file>light-purple-alt/stop.svg</file>
-    <file>light-purple-alt/stylesheet.qss</file>
     <file>light-purple-alt/tab_close.svg</file>
     <file>light-purple-alt/transparent.svg</file>
     <file>light-purple-alt/trash.svg</file>
@@ -2644,7 +2622,6 @@
     <file>light-purple/skip_backward.svg</file>
     <file>light-purple/skip_forward.svg</file>
     <file>light-purple/stop.svg</file>
-    <file>light-purple/stylesheet.qss</file>
     <file>light-purple/tab_close.svg</file>
     <file>light-purple/transparent.svg</file>
     <file>light-purple/trash.svg</file>
@@ -2765,7 +2742,6 @@
     <file>light-red-alt/skip_backward.svg</file>
     <file>light-red-alt/skip_forward.svg</file>
     <file>light-red-alt/stop.svg</file>
-    <file>light-red-alt/stylesheet.qss</file>
     <file>light-red-alt/tab_close.svg</file>
     <file>light-red-alt/transparent.svg</file>
     <file>light-red-alt/trash.svg</file>
@@ -2886,7 +2862,6 @@
     <file>light-red/skip_backward.svg</file>
     <file>light-red/skip_forward.svg</file>
     <file>light-red/stop.svg</file>
-    <file>light-red/stylesheet.qss</file>
     <file>light-red/tab_close.svg</file>
     <file>light-red/transparent.svg</file>
     <file>light-red/trash.svg</file>
@@ -2905,6 +2880,33 @@
     <file>light-red/volume_muted.svg</file>
     <file>light-red/vseptoolbar.svg</file>
     <file>light-red/window_close.svg</file>
-    <file>light/stylesheet.qss</file>
+  </qresource>
+  <qresource prefix="breeze">
+    <file>dark-blue-alt.qss</file>
+    <file>dark-blue.qss</file>
+    <file>dark-cyan-alt.qss</file>
+    <file>dark-cyan.qss</file>
+    <file>dark-green-alt.qss</file>
+    <file>dark-green.qss</file>
+    <file>dark-pink-alt.qss</file>
+    <file>dark-pink.qss</file>
+    <file>dark-purple-alt.qss</file>
+    <file>dark-purple.qss</file>
+    <file>dark-red-alt.qss</file>
+    <file>dark-red.qss</file>
+    <file>dark.qss</file>
+    <file>light-blue-alt.qss</file>
+    <file>light-blue.qss</file>
+    <file>light-cyan-alt.qss</file>
+    <file>light-cyan.qss</file>
+    <file>light-green-alt.qss</file>
+    <file>light-green.qss</file>
+    <file>light-pink-alt.qss</file>
+    <file>light-pink.qss</file>
+    <file>light-purple-alt.qss</file>
+    <file>light-purple.qss</file>
+    <file>light-red-alt.qss</file>
+    <file>light-red.qss</file>
+    <file>light.qss</file>
   </qresource>
 </RCC>
